@@ -29,6 +29,7 @@ input {
     font-size: 18px;
     padding: 10px;
     background: transparent;
+    color: #FFF;
 }
 button{
     border-radius: 22px;
@@ -52,19 +53,19 @@ button{
     border: 1px solid #E5E5E5;
     margin-right: 32px;
 }
-.perfil h3{
+.h3-perfil{
     color: #999;
     font-size: 24px;
     margin: 0;
 }
 
-.perfil span{
+.span-perfil{
     display: block;
     color: #999;
     font-size: 12px;
     margin: 0;
 }
-.perfil p{
+.p-perfil{
     color: #999;
     font-size: 12px;
     margin: 20px 0 0 0;
